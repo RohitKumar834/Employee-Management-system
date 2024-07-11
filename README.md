@@ -93,6 +93,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Authors
-Your Name (@yourgithubusername)
-Acknowledgments
+Rohit Kumar (@RohitKumar@834)
+
+## Acknowledgments
 Mention any contributors or third-party libraries used in your project.
