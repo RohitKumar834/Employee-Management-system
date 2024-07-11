@@ -34,41 +34,41 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
+   
    git clone https://github.com/yourusername/employee-management.git
    cd employee-management
-```
+
 2. Install server dependencies:
 
-   ```bash
+   
    Copy code
    npm install
-   ```
+   
 3. Set up environment variables:
 
    Create a .env file in the root directory.
    Define environment variables including PORT, DB_URI, and JWT_SECRET. Example:
-   ```makefile
+   makefile
    Copy code
    PORT=5000
    DB_URI=mongodb://localhost:27017/employee_management
    JWT_SECRET=your_jwt_secret
-   ```
+   
 4. Start the server:
 
-``bash
+
 Copy code
 npm start
-```
 
-(Optional) Start the client (React frontend):
 
-```bash
+## (Optional) Start the client (React frontend):
+
+
 Copy code
 cd client
 npm install
 npm start
-```
+
 
 ## Usage
 Login: Access /login endpoint with username and password to obtain JWT token.
